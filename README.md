@@ -20,15 +20,6 @@
 
 ## 🛠 Featured Projects
 
-### 💰 EMI Calculator
-
-A free online EMI calculator that computes monthly EMI, total interest payable, total payment amount, and provides a detailed amortization schedule.
-
-🔗 Live Demo: https://emi-calculator-beta-pied.vercel.app/
-🔗 Source Code: https://github.com/MitulSachdeva/EMI-Calculator
-
----
-
 ### 💼 FastAPI Job Portal Backend
 
 Production-ready REST API backend featuring JWT authentication, role-based access control (RBAC), PostgreSQL, Alembic migrations, Docker deployment, and Swagger documentation.
